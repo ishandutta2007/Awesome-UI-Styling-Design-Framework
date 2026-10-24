@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-UI-Styling-Design-Framework/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-UI-Styling-Design-Framework?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-UI-Styling-Design-Framework/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-UI-Styling-Design-Framework?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-UI-Styling-Design-Framework/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-UI-Styling-Design-Framework?style=flat-square&color=blue" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-UI-Styling-Design-Framework/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-UI-Styling-Design-Framework/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT"/></a>
@@ -74,96 +74,96 @@ The following table evaluates top commercial SaaS platforms, enterprise UI compo
 
 ## 🌟 Top Open-Source UI Styling & Design Frameworks
 
-Below is the definitive index of open-source UI styling frameworks, design systems, utility engines, and headless primitives, sorted strictly in **descending order of GitHub Star counts**:
+Below is the definitive index of open-source UI styling frameworks, design systems, utility engines, and headless primitives, sorted strictly in **descending order of GitHub Stars_Counts**:
 
-1. **[Bootstrap](https://github.com/twbs/bootstrap)** [![GitHub stars](https://img.shields.io/github/stars/twbs/bootstrap?style=social&color=white)](https://github.com/twbs/bootstrap/stargazers) 🌟  
+1. **[Bootstrap](https://github.com/twbs/bootstrap)** [![GitHub_Stars](https://img.shields.io/github/stars/twbs/bootstrap?style=social&color=white)](https://github.com/twbs/bootstrap/stargazers) 🌟  
    *The world's most widely deployed HTML, CSS, and JS framework.* Features a mobile-first 12-column flexbox grid, extensive pre-built UI components (modals, navbars, offcanvas, alerts), and CSS variable-driven theming without heavy build requirements.
 
-2. **[shadcn/ui](https://github.com/shadcn-ui/ui)** [![GitHub stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&color=white)](https://github.com/shadcn-ui/ui/stargazers) 🌟  
+2. **[shadcn/ui](https://github.com/shadcn-ui/ui)** [![GitHub_Stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&color=white)](https://github.com/shadcn-ui/ui/stargazers) 🌟  
    *The pioneer of the code-ownership component model.* Rather than installing an npm package, developers copy unstyled, accessible components directly into their source code over Radix UI / Base UI, styled with Tailwind CSS.
 
-3. **[Ant Design](https://github.com/ant-design/ant-design)** [![GitHub stars](https://img.shields.io/github/stars/ant-design/ant-design?style=social&color=white)](https://github.com/ant-design/ant-design/stargazers) 🌟  
+3. **[Ant Design](https://github.com/ant-design/ant-design)** [![GitHub_Stars](https://img.shields.io/github/stars/ant-design/ant-design?style=social&color=white)](https://github.com/ant-design/ant-design/stargazers) 🌟  
    *Enterprise-grade UI design language and comprehensive React component suite.* Built specifically for data-intensive web applications, complex admin portals, internal enterprise tools, and internationalized products.
 
-4. **[Material UI (MUI)](https://github.com/mui/material-ui)** [![GitHub stars](https://img.shields.io/github/stars/mui/material-ui?style=social&color=white)](https://github.com/mui/material-ui/stargazers) 🌟  
+4. **[Material UI (MUI)](https://github.com/mui/material-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/mui/material-ui?style=social&color=white)](https://github.com/mui/material-ui/stargazers) 🌟  
    *Comprehensive React component library implementing Google's Material Design.* Provides deeply customizable theming, design token propagation, and accessibility out of the box, with seamless upgrade paths to advanced MUI X widgets.
 
-5. **[Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)** [![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social&color=white)](https://github.com/tailwindlabs/tailwindcss/stargazers) 🌟  
+5. **[Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)** [![GitHub_Stars](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social&color=white)](https://github.com/tailwindlabs/tailwindcss/stargazers) 🌟  
    *The industry-standard utility-first CSS framework.* Composes custom web interfaces directly in markup using atomic classes. Version 4.0 features a high-performance Rust-based compilation engine (Oxide), CSS-first configuration, and instant incremental rebuilds.
 
-6. **[Element UI](https://github.com/ElemeFE/element)** [![GitHub stars](https://img.shields.io/github/stars/ElemeFE/element?style=social&color=white)](https://github.com/ElemeFE/element/stargazers) 🌟  
+6. **[Element UI](https://github.com/ElemeFE/element)** [![GitHub_Stars](https://img.shields.io/github/stars/ElemeFE/element?style=social&color=white)](https://github.com/ElemeFE/element/stargazers) 🌟  
    *Pioneering desktop component suite for Vue 2.0.* Established the benchmark for enterprise admin panels and data management dashboards across thousands of production web apps worldwide.
 
-7. **[Bulma](https://github.com/jgthms/bulma)** [![GitHub stars](https://img.shields.io/github/stars/jgthms/bulma?style=social&color=white)](https://github.com/jgthms/bulma/stargazers) 🌟  
+7. **[Bulma](https://github.com/jgthms/bulma)** [![GitHub_Stars](https://img.shields.io/github/stars/jgthms/bulma?style=social&color=white)](https://github.com/jgthms/bulma/stargazers) 🌟  
    *Pure CSS framework built entirely on modern Flexbox.* Zero JavaScript runtime overhead, semantic class syntax, built-in dark mode support, and seamless integration with any frontend view library or vanilla HTML.
 
-8. **[DaisyUI](https://github.com/saadeghi/daisyui)** [![GitHub stars](https://img.shields.io/github/stars/saadeghi/daisyui?style=social&color=white)](https://github.com/saadeghi/daisyui/stargazers) 🌟  
+8. **[DaisyUI](https://github.com/saadeghi/daisyui)** [![GitHub_Stars](https://img.shields.io/github/stars/saadeghi/daisyui?style=social&color=white)](https://github.com/saadeghi/daisyui/stargazers) 🌟  
    *The premier component plugin for Tailwind CSS.* Injects semantic UI class names (`btn`, `card`, `modal`, `navbar`) directly into Tailwind while preserving utility flexibility and offering dozens of built-in themes.
 
-9. **[Tabler](https://github.com/tabler/tabler)** [![GitHub stars](https://img.shields.io/github/stars/tabler/tabler?style=social&color=white)](https://github.com/tabler/tabler/stargazers) 🌟  
+9. **[Tabler](https://github.com/tabler/tabler)** [![GitHub_Stars](https://img.shields.io/github/stars/tabler/tabler?style=social&color=white)](https://github.com/tabler/tabler/stargazers) 🌟  
    *Premium, free, and open-source admin dashboard UI kit built on Bootstrap 5.* Includes hundreds of responsive UI components, widgets, charts, and clean, responsive layouts for SaaS admin panels.
 
-10. **[styled-components](https://github.com/styled-components/styled-components)** [![GitHub stars](https://img.shields.io/github/stars/styled-components/styled-components?style=social&color=white)](https://github.com/styled-components/styled-components/stargazers) 🌟  
+10. **[styled-components](https://github.com/styled-components/styled-components)** [![GitHub_Stars](https://img.shields.io/github/stars/styled-components/styled-components?style=social&color=white)](https://github.com/styled-components/styled-components/stargazers) 🌟  
     *Visual primitives for the component age.* Uses tagged template literals to write actual CSS code right inside React components, providing dynamic prop-based styling, automatic vendor prefixing, and scoped styles.
 
-11. **[Vuetify](https://github.com/vuetifyjs/vuetify)** [![GitHub stars](https://img.shields.io/github/stars/vuetifyjs/vuetify?style=social&color=white)](https://github.com/vuetifyjs/vuetify/stargazers) 🌟  
+11. **[Vuetify](https://github.com/vuetifyjs/vuetify)** [![GitHub_Stars](https://img.shields.io/github/stars/vuetifyjs/vuetify?style=social&color=white)](https://github.com/vuetifyjs/vuetify/stargazers) 🌟  
     *Complete Material Design component framework for Vue 3.* Provides a vast ecosystem of over 80 accessible UI components, responsive grid layouts, dynamic blueprint configuration, and SSR support.
 
-12. **[Chakra UI](https://github.com/chakra-ui/chakra-ui)** [![GitHub stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social&color=white)](https://github.com/chakra-ui/chakra-ui/stargazers) 🌟  
+12. **[Chakra UI](https://github.com/chakra-ui/chakra-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social&color=white)](https://github.com/chakra-ui/chakra-ui/stargazers) 🌟  
     *Ergonomic, accessible, and modular component library for React.* Combines style-prop composition (`<Box bg="brand.500" p={4}>`) with strict WAI-ARIA compliance, dark mode, and composable tokens.
 
-13. **[Mantine](https://github.com/mantinedev/mantine)** [![GitHub stars](https://img.shields.io/github/stars/mantinedev/mantine?style=social&color=white)](https://github.com/mantinedev/mantine/stargazers) 🌟  
+13. **[Mantine](https://github.com/mantinedev/mantine)** [![GitHub_Stars](https://img.shields.io/github/stars/mantinedev/mantine?style=social&color=white)](https://github.com/mantinedev/mantine/stargazers) 🌟  
     *Feature-dense React component and hooks library.* Offers 100+ customizable components, 50+ custom hooks, native dark mode, accessible form management, notifications, and zero-runtime CSS modules.
 
-14. **[HeroUI (formerly NextUI)](https://github.com/heroui-inc/heroui)** [![GitHub stars](https://img.shields.io/github/stars/heroui-inc/heroui?style=social&color=white)](https://github.com/heroui-inc/heroui/stargazers) 🌟  
+14. **[HeroUI (formerly NextUI)](https://github.com/heroui-inc/heroui)** [![GitHub_Stars](https://img.shields.io/github/stars/heroui-inc/heroui?style=social&color=white)](https://github.com/heroui-inc/heroui/stargazers) 🌟  
     *Modern, aesthetic, and blazing-fast React UI library.* Powered by Tailwind CSS and React Aria primitives, delivering polished animations, accessible interactions, and modern design aesthetics.
 
-15. **[Headless UI](https://github.com/tailwindlabs/headlessui)** [![GitHub stars](https://img.shields.io/github/stars/tailwindlabs/headlessui?style=social&color=white)](https://github.com/tailwindlabs/headlessui/stargazers) 🌟  
+15. **[Headless UI](https://github.com/tailwindlabs/headlessui)** [![GitHub_Stars](https://img.shields.io/github/stars/tailwindlabs/headlessui?style=social&color=white)](https://github.com/tailwindlabs/headlessui/stargazers) 🌟  
     *Completely unstyled, accessible UI components from the makers of Tailwind CSS.* Provides menu, dialog, listbox, switch, and popover components engineered to integrate with Tailwind classes.
 
-16. **[Element Plus](https://github.com/element-plus/element-plus)** [![GitHub stars](https://img.shields.io/github/stars/element-plus/element-plus?style=social&color=white)](https://github.com/element-plus/element-plus/stargazers) 🌟  
+16. **[Element Plus](https://github.com/element-plus/element-plus)** [![GitHub_Stars](https://img.shields.io/github/stars/element-plus/element-plus?style=social&color=white)](https://github.com/element-plus/element-plus/stargazers) 🌟  
     *The modern Vue 3 successor to Element UI.* Re-engineered with TypeScript, Composition API, flexible design tokens, and comprehensive internationalization for modern web applications.
 
-17. **[Quasar Framework](https://github.com/quasarframework/quasar)** [![GitHub stars](https://img.shields.io/github/stars/quasarframework/quasar?style=social&color=white)](https://github.com/quasarframework/quasar/stargazers) 🌟  
+17. **[Quasar Framework](https://github.com/quasarframework/quasar)** [![GitHub_Stars](https://img.shields.io/github/stars/quasarframework/quasar?style=social&color=white)](https://github.com/quasarframework/quasar/stargazers) 🌟  
     *Cross-platform Vue.js powerhouse.* Write code once and simultaneously deploy responsive SPAs, SSR web apps, PWAs, desktop applications (Electron), and mobile apps (Capacitor/Cordova).
 
-18. **[React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)** [![GitHub stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap?style=social&color=white)](https://github.com/react-bootstrap/react-bootstrap/stargazers) 🌟  
+18. **[React Bootstrap](https://github.com/react-bootstrap/react-bootstrap)** [![GitHub_Stars](https://img.shields.io/github/stars/react-bootstrap/react-bootstrap?style=social&color=white)](https://github.com/react-bootstrap/react-bootstrap/stargazers) 🌟  
     *Bootstrap reimagined for React.* Replaces Bootstrap's jQuery scripts with pure React virtual DOM components while retaining full CSS and theme compatibility with existing Bootstrap themes.
 
-19. **[Radix UI Primitives](https://github.com/radix-ui/primitives)** [![GitHub stars](https://img.shields.io/github/stars/radix-ui/primitives?style=social&color=white)](https://github.com/radix-ui/primitives/stargazers) 🌟  
+19. **[Radix UI Primitives](https://github.com/radix-ui/primitives)** [![GitHub_Stars](https://img.shields.io/github/stars/radix-ui/primitives?style=social&color=white)](https://github.com/radix-ui/primitives/stargazers) 🌟  
     *Unstyled, accessible React component primitives.* Manages complex behavioral logic—focus traps, roving tabindexes, collision detection, and screen-reader semantics—while leaving visual design to you.
 
-20. **[UnoCSS](https://github.com/unocss/unocss)** [![GitHub stars](https://img.shields.io/github/stars/unocss/unocss?style=social&color=white)](https://github.com/unocss/unocss/stargazers) 🌟  
+20. **[UnoCSS](https://github.com/unocss/unocss)** [![GitHub_Stars](https://img.shields.io/github/stars/unocss/unocss?style=social&color=white)](https://github.com/unocss/unocss/stargazers) 🌟  
     *The instant on-demand atomic CSS engine.* Ultra-lightweight and extensible architecture supporting Tailwind CSS, Windi CSS, and custom regex rules with sub-millisecond compile times.
 
-21. **[Emotion](https://github.com/emotion-js/emotion)** [![GitHub stars](https://img.shields.io/github/stars/emotion-js/emotion?style=social&color=white)](https://github.com/emotion-js/emotion/stargazers) 🌟  
+21. **[Emotion](https://github.com/emotion-js/emotion)** [![GitHub_Stars](https://img.shields.io/github/stars/emotion-js/emotion?style=social&color=white)](https://github.com/emotion-js/emotion/stargazers) 🌟  
     *Flexible and high-performance CSS-in-JS library.* Powers styling in major enterprise design systems (including Material UI), featuring powerful source maps, auto-prefixing, and predictable style isolation.
 
-22. **[Pico CSS](https://github.com/picocss/pico)** [![GitHub stars](https://img.shields.io/github/stars/picocss/pico?style=social&color=white)](https://github.com/picocss/pico/stargazers) 🌟  
+22. **[Pico CSS](https://github.com/picocss/pico)** [![GitHub_Stars](https://img.shields.io/github/stars/picocss/pico?style=social&color=white)](https://github.com/picocss/pico/stargazers) 🌟  
     *Minimal, semantic CSS framework for pure HTML.* Automatically styles native semantic HTML tags (`<nav>`, `<article>`, `<dialog>`, `<form>`) without requiring utility classes or class clutter.
 
-23. **[React Spectrum & React Aria](https://github.com/adobe/react-spectrum)** [![GitHub stars](https://img.shields.io/github/stars/adobe/react-spectrum?style=social&color=white)](https://github.com/adobe/react-spectrum/stargazers) 🌟  
+23. **[React Spectrum & React Aria](https://github.com/adobe/react-spectrum)** [![GitHub_Stars](https://img.shields.io/github/stars/adobe/react-spectrum?style=social&color=white)](https://github.com/adobe/react-spectrum/stargazers) 🌟  
     *Adobe's enterprise-grade UI library collection.* Includes React Aria (uncompromising accessible component hooks for keyboard, touch, and screen readers) and React Spectrum (complete Adobe design system implementation).
 
-24. **[Base UI](https://github.com/mui/base-ui)** [![GitHub stars](https://img.shields.io/github/stars/mui/base-ui?style=social&color=white)](https://github.com/mui/base-ui/stargazers) 🌟  
+24. **[Base UI](https://github.com/mui/base-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/mui/base-ui?style=social&color=white)](https://github.com/mui/base-ui/stargazers) 🌟  
     *Unstyled UI component library from the MUI team.* Delivers rock-solid accessible primitives designed to serve as the foundational behavior layer for custom design systems and modern shadcn stacks.
 
-25. **[vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract)** [![GitHub stars](https://img.shields.io/github/stars/vanilla-extract-css/vanilla-extract?style=social&color=white)](https://github.com/vanilla-extract-css/vanilla-extract/stargazers) 🌟  
+25. **[vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract)** [![GitHub_Stars](https://img.shields.io/github/stars/vanilla-extract-css/vanilla-extract?style=social&color=white)](https://github.com/vanilla-extract-css/vanilla-extract/stargazers) 🌟  
     *Zero-runtime stylesheets-in-TypeScript.* Write type-safe, scoped CSS styles in TypeScript and emit static, optimized `.css` files during the build process with zero runtime overhead.
 
-26. **[Carbon Design System](https://github.com/carbon-design-system/carbon)** [![GitHub stars](https://img.shields.io/github/stars/carbon-design-system/carbon?style=social&color=white)](https://github.com/carbon-design-system/carbon/stargazers) 🌟  
+26. **[Carbon Design System](https://github.com/carbon-design-system/carbon)** [![GitHub_Stars](https://img.shields.io/github/stars/carbon-design-system/carbon?style=social&color=white)](https://github.com/carbon-design-system/carbon/stargazers) 🌟  
     *IBM's open-source design system.* Enterprise component suite, design tokens, iconography, and UX guidelines engineered for mission-critical cloud and enterprise software products.
 
-27. **[Ariakit](https://github.com/ariakit/ariakit)** [![GitHub stars](https://img.shields.io/github/stars/ariakit/ariakit?style=social&color=white)](https://github.com/ariakit/ariakit/stargazers) 🌟  
+27. **[Ariakit](https://github.com/ariakit/ariakit)** [![GitHub_Stars](https://img.shields.io/github/stars/ariakit/ariakit?style=social&color=white)](https://github.com/ariakit/ariakit/stargazers) 🌟  
     *Toolkit for building accessible web applications.* Provides headless, unstyled components with full keyboard accessibility, composite widgets, popover positioning, and dialog semantics.
 
-28. **[Panda CSS](https://github.com/chakra-ui/panda)** [![GitHub stars](https://img.shields.io/github/stars/chakra-ui/panda?style=social&color=white)](https://github.com/chakra-ui/panda/stargazers) 🌟  
+28. **[Panda CSS](https://github.com/chakra-ui/panda)** [![GitHub_Stars](https://img.shields.io/github/stars/chakra-ui/panda?style=social&color=white)](https://github.com/chakra-ui/panda/stargazers) 🌟  
     *Universal, type-safe CSS-in-JS framework.* Combines the developer ergonomics of CSS-in-JS (like Chakra and styled-components) with build-time static CSS extraction and type-safe token autocomplete.
 
-29. **[Open Props](https://github.com/argyleink/open-props)** [![GitHub stars](https://img.shields.io/github/stars/argyleink/open-props?style=social&color=white)](https://github.com/argyleink/open-props/stargazers) 🌟  
+29. **[Open Props](https://github.com/argyleink/open-props)** [![GitHub_Stars](https://img.shields.io/github/stars/argyleink/open-props?style=social&color=white)](https://github.com/argyleink/open-props/stargazers) 🌟  
     *Supercharged CSS custom properties.* Offers hundreds of production-tested CSS variables for typography, fluid scaling, colors, animations, shadows, and aspect ratios without requiring JavaScript.
 
-30. **[Primer React](https://github.com/primer/react)** [![GitHub stars](https://img.shields.io/github/stars/primer/react?style=social&color=white)](https://github.com/primer/react/stargazers) 🌟  
+30. **[Primer React](https://github.com/primer/react)** [![GitHub_Stars](https://img.shields.io/github/stars/primer/react?style=social&color=white)](https://github.com/primer/react/stargazers) 🌟  
     *GitHub's official design system implementation in React.* Implements GitHub's distinct visual language, responsive components, accessibility patterns, and token hierarchy.
 
 ---
